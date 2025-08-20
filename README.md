@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello to all! 👋
 
 <!--
 **AerollingOverDeepBlueSeas/AerollingOverDeepBlueSeas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## AAAAAAAAAAA
-okay that's it thank you and goodnight
+## :)
+Thank you for visiting this page.
+Look forward to updates in the future!
